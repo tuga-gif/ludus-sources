@@ -1,1 +1,202 @@
-
+{
+  "UBISOFT": {
+    "460920": {
+      "name": "Steep",
+      "launch_steam": true,
+      "launch_exe": true,
+      "comentarios": "Enjoy the game ♥",
+      "programas_necesarios": ["DirectX", ".NET", "Ubisoft Connect"],
+      "errores": [
+        "If the game shows errors when opening, you need to install DirectX, .NET, and Ubisoft Connect."
+      ],
+      "nombre_fix": "Steep - nexus",
+      "custom_images": {}
+    },
+    "2290180": {
+      "name": "Riders Republic - ZEN MODE",
+      "launch_steam": false,
+      "launch_exe": true,
+      "comentarios": "Enjoy the game ♥",
+      "programas_necesarios": ["DirectX", ".NET", "Ubisoft Connect"],
+      "errores": [
+        "If the game shows errors when opening, you need to install DirectX, .NET, and Ubisoft Connect.",
+        "To launch the game, you need to use the Start.exe executable included in the game's root folder.",
+        "Only ZEN Mode is available. It is the only offline mode the game has, so please don't ask about the normal mode."
+      ],
+      "nombre_fix": "Riders Republic - nexus",
+      "custom_images": {}
+    },
+    "2751000": {
+      "name": "Prince of Persia The Lost Crown",
+      "launch_steam": true,
+      "launch_exe": true,
+      "exclusion": true,
+      "comentarios": "Enjoy the game ♥",
+      "programas_necesarios": ["DirectX", ".NET", "Ubisoft Connect"],
+      "errores": [
+        "If the game shows errors when opening, you need to install DirectX, .NET, and Ubisoft Connect."
+      ],
+      "nombre_fix": "Prince of Persia The Lost Crown - nexus",
+      "custom_images": {}
+    },
+    "2842040": {
+      "name": "Star Wars Outlaws",
+      "launch_steam": true,
+      "launch_exe": true,
+      "comentarios": "Enjoy the game ♥",
+      "programas_necesarios": ["DirectX", ".NET", "Ubisoft Connect"],
+      "errores": [
+        "If the game shows errors when opening, you need to install DirectX, .NET, and Ubisoft Connect."
+      ],
+      "nombre_fix": "Star Wars Outlaws - nexus",
+      "custom_images": {}
+    },
+    "2840770": {
+      "name": "Avatar: Frontiers of Pandora",
+      "launch_steam": true,
+      "launch_exe": true,
+      "comentarios": "Enjoy the game ♥",
+      "programas_necesarios": ["DirectX", ".NET", "Ubisoft Connect"],
+      "errores": [
+        "If the game shows errors when opening, you need to install DirectX, .NET, and Ubisoft Connect."
+      ],
+      "nombre_fix": "Avatar: Frontiers of Pandora - nexus",
+      "custom_images": {}
+    },
+    "241560": {
+      "name": "The Crew",
+      "launch_steam": true,
+      "launch_exe": true,
+      "exclusion": true,
+      "comentarios": "Enjoy the game ♥",
+      "programas_necesarios": ["DirectX", ".NET", "Ubisoft Play"],
+      "errores": [
+        "If the game shows errors when opening, you need to install DirectX, .NET, and Ubisoft Play.",
+        "The game only works when launched through Steam."
+      ],
+      "nombre_fix": "The Crew - nexus",
+      "custom_images": {
+        "hero_image": "https://cdn2.steamgriddb.com/grid/d2500d51d3ed0791852f4ea4b4a2cf03.png",
+        "background": "https://i.imgur.com/e6oKqqV.jpeg"
+      }
+    },
+    "646910": {
+      "name": "The Crew 2",
+      "launch_steam": true,
+      "launch_exe": true,
+      "comentarios": "Enjoy the game ♥",
+      "programas_necesarios": ["DirectX", ".NET", "Ubisoft Play"],
+      "errores": [
+        "If the game shows errors when opening, you need to install DirectX, .NET, and Ubisoft Play.",
+        "If you cant open the game with steam, try to open it with the exe in the folder called TheCrew2.exe"
+      ],
+      "nombre_fix": "The Crew 2 - nexus",
+      "custom_images": {}
+    },
+    "2698940": {
+      "name": "The Crew Motorfest",
+      "launch_steam": true,
+      "launch_exe": true,
+      "comentarios": "Enjoy the game ♥",
+      "programas_necesarios": ["DirectX", ".NET", "Ubisoft Play"],
+      "errores": [
+        "If the game shows errors when opening, you need to install DirectX, .NET, and Ubisoft Play.",
+        "If you cant open the game with steam, try to open it with the exe in the folder called TheCrewMotorfest_BE.exe"
+      ],
+      "nombre_fix": "The Crew Motorfest - nexus",
+      "custom_images": {}
+    },
+    "242550": {
+      "name": "Rayman Legends",
+      "launch_steam": true,
+      "launch_exe": true,
+      "exclusion": true,
+      "comentarios": "Enjoy the game ♥",
+      "programas_necesarios": ["DirectX", ".NET", "Ubisoft Play"],
+      "errores": [
+        "If the game shows errors when opening, you need to install DirectX, .NET, and Ubisoft Play.",
+        "I recommend marking the game folder as an exception in your antivirus so that it does not delete your files."
+      ],
+      "nombre_fix": "Rayman Legends - nexus",
+      "custom_images": {
+        "hero_image": "https://cdn2.steamgriddb.com/grid/aa01df8e6c2526116e1a7eab3f634de8.png",
+        "background": "https://cdn2.steamgriddb.com/hero/f0ac7bfbd398770a71003c2aced6a951.jpg"
+      }
+    },
+    "33230": {
+      "name": "Assassin's Creed II",
+      "launch_steam": true,
+      "launch_exe": true,
+      "comentarios": "Enjoy the game ♥",
+      "programas_necesarios": ["DirectX", ".NET", "Ubisoft Play"],
+      "errores": [
+        "If the game shows errors when opening, you need to install DirectX, .NET, and Ubisoft Play."
+      ],
+      "nombre_fix": "Assassin's Creed II - nexus",
+      "custom_images": {}
+    },
+    "48190": {
+      "name": "Assassin's Creed Brotherhood",
+      "launch_steam": true,
+      "launch_exe": true,
+      "comentarios": "Enjoy the game ♥",
+      "programas_necesarios": ["DirectX", ".NET", "Ubisoft Play"],
+      "errores": [
+        "If the game shows errors when opening, you need to install DirectX, .NET, and Ubisoft Play."
+      ],
+      "nombre_fix": "Assassin's Creed Brotherhood - nexus",
+      "custom_images": {}
+    },
+    "201870": {
+      "name": "Assassin's Creed Revelations",
+      "launch_steam": true,
+      "launch_exe": true,
+      "comentarios": "Enjoy the game ♥",
+      "programas_necesarios": ["DirectX", ".NET", "Ubisoft Play"],
+      "errores": [
+        "If the game shows errors when opening, you need to install DirectX, .NET, and Ubisoft Play."
+      ],
+      "nombre_fix": "Assassins Creed Revelations - nexus",
+      "custom_images": {
+        "hero_image": "https://cdn2.steamgriddb.com/thumb/105fb0578a9e90c458f69bad63c38709.png",
+        "background": "https://cdn2.steamgriddb.com/grid/5b4db7da70c4c1f3005198b8379ec177.png"
+      }
+    },
+    "208480": {
+      "name": "Assassin's Creed Odyssey",
+      "launch_steam": true,
+      "launch_exe": true,
+      "comentarios": "Enjoy the game ♥",
+      "programas_necesarios": ["DirectX", ".NET", "Ubisoft Play"],
+      "errores": [
+        "If the game shows errors when opening, you need to install DirectX, .NET, and Ubisoft Play."
+      ],
+      "nombre_fix": "Assassin's Creed Odyssey - nexus",
+      "custom_images": {}
+    },
+    "223950": {
+      "name": "Assassin's Creed Unity",
+      "launch_steam": true,
+      "launch_exe": true,
+      "comentarios": "Enjoy the game ♥",
+      "programas_necesarios": ["DirectX", ".NET", "Ubisoft Play"],
+      "errores": [
+        "If the game shows errors when opening, you need to install DirectX, .NET, and Ubisoft Play."
+      ],
+      "nombre_fix": "Assassin's Creed Unity - nexus",
+      "custom_images": {}
+    },
+    "271590": {
+      "name": "Assassin's Creed Syndicate",
+      "launch_steam": true,
+      "launch_exe": true,
+      "comentarios": "Enjoy the game ♥",
+      "programas_necesarios": ["DirectX", ".NET", "Ubisoft Play"],
+      "errores": [
+        "If the game shows errors when opening, you need to install DirectX, .NET, and Ubisoft Play."
+      ],
+      "nombre_fix": "Assassin's Creed Syndicate - nexus",
+      "custom_images": {}
+    }
+  }
+}
